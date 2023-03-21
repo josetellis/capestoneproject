@@ -1,0 +1,5 @@
+2023-03-15 09:27:21,248 DEBUG Debug message
+2023-03-15 09:27:21,248 INFO Info message
+2023-03-15 09:27:21,248 WARNING Warning message
+2023-03-15 09:27:21,248 ERROR Error message
+2023-03-15 09:27:21,248 CRITICAL Critical message

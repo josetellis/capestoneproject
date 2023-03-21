@@ -1,0 +1,4 @@
+2023-03-15 12:27:39,843-root-INFO-hello from info
+2023-03-15 12:27:39,843-root-WARNING-hello from warning
+2023-03-15 12:27:39,843-root-ERROR-hello from error
+2023-03-15 12:27:39,843-root-CRITICAL-hello from critical

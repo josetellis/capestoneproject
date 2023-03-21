@@ -1,0 +1,99 @@
+2023-03-15 15:25:13,205-root-INFO-Drive named:/ file namejoseph.txt
+2023-03-15 15:25:13,206-root-INFO-class usedSearchFile
+2023-03-15 15:25:13,301-root-INFO-myhcl database is connected
+2023-03-15 15:25:13,302-root-INFO-Not Found in Database
+2023-03-15 15:25:13,302-root-INFO-Not Found in Database
+2023-03-15 15:25:13,303-root-INFO- for searching in drive SearchFilesDrives is used
+2023-03-15 15:25:15,738-root-INFO-files found ['d:/joseph.txt', 'd:/joseph\\joseph.txt']
+2023-03-15 15:25:15,739-root-INFO-time taken2.4359114170074463
+2023-03-15 15:25:15,739-root-INFO-Ending
+2023-03-15 16:42:26,727-root-INFO-Drive named:/ file namejoseph.txt
+2023-03-15 16:42:26,728-root-INFO-class usedSearchFile
+2023-03-15 16:42:26,821-root-INFO-myhcl database is connected
+2023-03-15 16:42:26,824-root-INFO-Not Found in Database
+2023-03-15 16:42:26,824-root-INFO-Now Searching in Drives
+2023-03-15 16:42:26,824-root-INFO- for searching in drive    SearchFilesDrives is used
+2023-03-15 16:42:47,970-root-INFO-files found ['d:/joseph.txt', 'd:/joseph\\joseph.txt']
+2023-03-15 16:42:47,971-root-INFO-time taken21.147586584091187
+2023-03-15 16:42:47,971-root-INFO-Ending
+2023-03-15 16:58:07,941-root-INFO-Drive named:/ file namejoseph.txt
+2023-03-15 16:58:07,941-root-INFO-class usedSearchFile
+2023-03-15 16:58:08,045-root-INFO-myhcl database is connected
+2023-03-15 16:58:08,047-root-INFO-Not Found in Database
+2023-03-15 16:58:08,047-root-INFO-Now Searching in Drives
+2023-03-15 16:58:08,047-root-INFO- for searching in drive    SearchFilesDrives is used
+2023-03-15 16:58:10,628-root-INFO-files found ['d:\\', 'd:\\joseph']
+2023-03-15 16:58:10,630-root-INFO-time taken2.581922769546509
+2023-03-15 16:58:10,630-root-INFO-Ending
+2023-03-16 10:53:21,637-root-INFO-Drive named:/ file namejoseph.txt
+2023-03-16 10:53:21,684-root-INFO-class usedSearchFile
+2023-03-16 10:53:21,762-root-INFO-myhcl database is connected
+2023-03-16 10:53:21,809-root-INFO-Not Found in Database
+2023-03-16 10:53:21,809-root-INFO-Now Searching in Drives
+2023-03-16 10:53:21,809-root-INFO- for searching in drive    SearchFilesDrives is used
+2023-03-16 10:54:45,312-root-INFO-files found ['d:\\', 'd:\\joseph']
+2023-03-16 10:54:45,375-root-INFO-time taken83.50282263755798
+2023-03-16 10:54:45,375-root-INFO-Ending
+2023-03-16 10:59:20,675-root-INFO-Drive named:/ file namejoseph.txt
+2023-03-16 10:59:20,675-root-INFO-class usedSearchFile
+2023-03-16 10:59:20,722-root-INFO-myhcl database is connected
+2023-03-16 10:59:20,722-root-INFO-Not Found in Database
+2023-03-16 10:59:20,722-root-INFO-Now Searching in Drives
+2023-03-16 10:59:20,722-root-INFO- for searching in drive    SearchFilesDrives is used
+2023-03-16 11:00:43,508-root-INFO-Drive named:/ file namejoseph.txt
+2023-03-16 11:00:43,508-root-INFO-class usedSearchFile
+2023-03-16 11:00:43,555-root-INFO-myhcl database is connected
+2023-03-16 11:00:43,664-root-INFO-Not Found in Database
+2023-03-16 11:00:43,664-root-INFO-Now Searching in Drives
+2023-03-16 11:00:43,664-root-INFO- for searching in drive    SearchFilesDrives is used
+2023-03-16 11:02:21,673-root-INFO-Drive named:/ file namejoseph.txt
+2023-03-16 11:02:21,673-root-INFO-class usedSearchFile
+2023-03-16 11:02:21,720-root-INFO-myhcl database is connected
+2023-03-16 11:02:21,720-root-INFO-Not Found in Database
+2023-03-16 11:02:21,720-root-INFO-Now Searching in Drives
+2023-03-16 11:02:21,720-root-INFO- for searching in drive    SearchFilesDrives is used
+2023-03-16 11:02:24,563-root-INFO-files found ['d:\\joseph.txt', 'd:\\josephjoseph.txt']
+2023-03-16 11:02:24,563-root-INFO-time taken2.843583345413208
+2023-03-16 11:02:24,563-root-INFO-Ending
+2023-03-16 11:13:27,183-root-INFO-Drive named:/ file namejoseph.txt
+2023-03-16 11:13:27,183-root-INFO-class usedSearchFile
+2023-03-16 11:13:27,277-root-INFO-myhcl database is connected
+2023-03-16 11:15:10,828-root-INFO-Drive named:/ file namejoseph.txt
+2023-03-16 11:15:10,828-root-INFO-class usedSearchFile
+2023-03-16 11:15:10,875-root-INFO-myhcl database is connected
+2023-03-16 11:53:40,839-root-INFO-Drive named:/ file namejoseph.txt
+2023-03-16 11:53:40,839-root-INFO-class usedSearchFile
+2023-03-16 11:53:40,885-root-INFO-myhcl database is connected
+2023-03-16 11:55:28,221-root-INFO-Drive named:/ file namejoseph.txt
+2023-03-16 11:55:28,221-root-INFO-class usedSearchFile
+2023-03-16 11:55:28,299-root-INFO-myhcl database is connected
+2023-03-16 12:08:05,603-root-INFO-Drive named:/ file namevmware.log
+2023-03-16 12:08:05,603-root-INFO-class usedSearchFile
+2023-03-16 12:08:05,712-root-INFO-myhcl database is connected
+2023-03-16 12:08:05,712-root-INFO-Not Found in Database
+2023-03-16 12:08:05,712-root-INFO-Now Searching in Drives
+2023-03-16 12:08:05,712-root-INFO- for searching in drive    SearchFilesDrives is used
+2023-03-16 12:08:30,914-root-INFO-files found ['d:\\vmware.log']
+2023-03-16 12:08:30,914-root-INFO-time taken25.201431274414062
+2023-03-16 12:08:30,914-root-INFO-Ending
+2023-03-16 12:11:09,108-root-INFO-Drive named:/ file namevmware.log
+2023-03-16 12:11:09,108-root-INFO-class usedSearchFile
+2023-03-16 12:11:09,155-root-INFO-myhcl database is connected
+2023-03-16 12:20:41,251-root-INFO-Drive named:/ file namejoseph.txt
+2023-03-16 12:20:41,251-root-INFO-class usedSearchFile
+2023-03-16 12:20:41,345-root-INFO-myhcl database is connected
+2023-03-16 12:20:41,345-root-INFO-Not Found in Database
+2023-03-16 12:20:41,345-root-INFO-Now Searching in Drives
+2023-03-16 12:20:41,345-root-INFO- for searching in drive    SearchFilesDrives is used
+2023-03-16 12:20:44,018-root-INFO-files found ['d:\\joseph.txt', 'd:\\josephjoseph.txt']
+2023-03-16 12:20:44,018-root-INFO-time taken2.6736645698547363
+2023-03-16 12:20:44,018-root-INFO-Ending
+2023-03-16 16:59:45,371-root-INFO-Drive named:/ file named11.csv
+2023-03-16 16:59:45,371-root-INFO-class usedSearchFile
+2023-03-16 16:59:45,684-root-INFO-myhcl database is connected
+2023-03-16 16:59:45,715-root-INFO-Not Found in Database
+2023-03-16 16:59:45,715-root-INFO-Now Searching in Drives
+2023-03-16 16:59:45,715-root-INFO- for searching in drive    SearchFilesDrives is used
+2023-03-16 17:00:44,206-root-INFO-files found ['d:\\d11.csv', 'd:\\backups\\SendApp\\Phone Contactsd11.csv']
+2023-03-16 17:00:44,206-root-INFO-time taken58.49103498458862
+2023-03-16 17:00:44,206-root-INFO-Ending
